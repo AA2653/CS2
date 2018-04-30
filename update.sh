@@ -28,8 +28,8 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/AA2653/CS.git
-cd CS/
+git clone https://github.com/AA2653/CS2.git
+cd CS2/
 npm i
 npm i -g pino
 npm install -g forever
